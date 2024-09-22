@@ -5,7 +5,8 @@
         "phone": "+1234567890",
         "address": "123 Web Developer St, Tech City, 45678",
         "linkedin": "https://www.linkedin.com/in/johndoe",
-        "website": "https://www.johndoedev.com"
+        "website": "https://www.johndoedev.com",
+        "img": "https://i.ibb.co.com/XLStPqN/Screenshot-2024-09-22-at-16-09-46-Md-Habibullah-pdf.png"
     },
     "profile": "Experienced PHP and Laravel developer with over 10 years of experience in web development and 5 years in teaching. Passionate about coding, mentoring, and helping students become proficient developers.",
     "skills": [
